@@ -4,44 +4,44 @@ const certifications = [
     title: "AWS Cloud Foundations .",
     issuer: " AWS Academy ",
     date: "April 2025",
-    link: "https://github.com/Raghuram0018/portfolio/blob/main/demo%20certificate%20img.jpeg",
+    link: "https://i.postimg.cc/1z46GBZ1/IMG-20250807-WA0012-1.jpg",
   },
   {
     title: "Generative AI Foundations",
     issuer: "AWS Academy",
     date: "June 2025",
-    link: "https://github.com/Raghuram0018/portfolio/blob/main/demo%20certificate%20img.jpeg",
+    link: "https://i.postimg.cc/1z46GBZ1/IMG-20250807-WA0012-1.jpg",
   },
   {
     title: "Full-Stack Web Development Bootcamp",
     issuer: "GeeksforGeeks",
     date: "June 2025",
-    link: "https://github.com/Raghuram0018/portfolio/blob/main/demo%20certificate%20img.jpeg",
+    link: "https://i.postimg.cc/1z46GBZ1/IMG-20250807-WA0012-1.jpg",
   },
   {
     title: "Cybersecurity-Job Simulation",
     issuer: "Deloitte",
     date: "July 2025",
-    link: "https://github.com/Raghuram0018/portfolio/blob/main/demo%20certificate%20img.jpeg",
+    link: "https://i.postimg.cc/1z46GBZ1/IMG-20250807-WA0012-1.jpg",
   },
   {
     title: "Data Analytics-Job Simulation",
     issuer: "Deloitte",
     date: "July 2025",
-    link: "https://github.com/Raghuram0018/portfolio/blob/main/demo%20certificate%20img.jpeg",
+    link: "#",
   },
   {
     title: "GenAI Powered Data Analytics- Job simulaton",
     issuer: "Tata",
     date: "July 2025",
-    link: "https://github.com/Raghuram0018/portfolio/blob/main/demo%20certificate%20img.jpeg",
+    link: "https://i.postimg.cc/1z46GBZ1/IMG-20250807-WA0012-1.jpg",
   },
   
   {
     title: "Front-End Software Engineering- Job simulation",
     issuer: "Skyscanner",
     date: "July 2025",
-    link: "https://github.com/Raghuram0018/portfolio/blob/main/demo%20certificate%20img.jpeg",
+    link: "https://i.postimg.cc/1z46GBZ1/IMG-20250807-WA0012-1.jpg",
   },
 ];
 
